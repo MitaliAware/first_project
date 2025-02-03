@@ -1,3 +1,3 @@
 # first_project
 first repository on github
-Author :- Mitali AWARE
+Author :- Mitali Aware
